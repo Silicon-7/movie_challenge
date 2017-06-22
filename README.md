@@ -41,6 +41,7 @@ The theatre has the following hours of operation.
 
 <br>
 <br>
+
 ## REQUIREMENTS
 -------------------------------------------
 
@@ -58,6 +59,7 @@ Your App will be interactive in the terminal, asking questions to the user, taki
 
 <br>
 <br>
+
 ## Make your own README.md
 -------------------------------------------
 
@@ -72,6 +74,7 @@ Once you complete the ruby app, modify this readme to instruct your users how to
 
 <br>
 <br>
+
 ## Personal Touches
 -------------------------------------------
 When you are done. Ask yourself how you can make this your own. Don't break anything that is required for the challenge. Adding some personal flair is a good way to get noticed.
